@@ -90,9 +90,5 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/ayush14019/ayush14019/output/snake.svg" alt="Snake animation" />
-
-###
 
